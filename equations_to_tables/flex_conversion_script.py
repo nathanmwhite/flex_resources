@@ -1,4 +1,4 @@
-# TODO: add initial column in each row such that content is seven rows wide, and example number is inserted
+#! /usr/bin/python
 
 import os
 import re
